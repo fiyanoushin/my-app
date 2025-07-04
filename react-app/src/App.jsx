@@ -5,7 +5,9 @@
 import One from './Components/One'
 
 function App() {
+  return(
   <One></One>
+  )
 }
 
 export default App
